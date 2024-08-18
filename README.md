@@ -1,33 +1,41 @@
 ## [Live Preview](https://brain-eye.vercel.app/)
 
 
-### 🤸 Quick Start
-Follow these steps to set up the project locally on your machine. <br>
+## <a name="quick-start">🤸 Quick Start</a>
 
-Prerequisites <br>
+Follow these steps to set up the project locally on your machine.
 
-Make sure you have the following installed on your machine: <be>
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/)(Node Package Manager)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-  #### Cloning the Repository
-  `
-  git clone  https://github.com/hrmrakib/brain-eye.git
-  cd brain-eye
-  `
+**Cloning the Repository**
 
-  #### Installation <br>
+```bash
+git clone https://github.com/hrmrakib/brain-eye.git
+cd brain-eye
+```
+
+**Installation**
+
 Install the project dependencies using npm:
-`
+
+```bash
 npm install
-`
+```
 
-#### Running the Project
-`npm run dev`
+**Running the Project**
 
-Open http://localhost:5173 in your browser to view the project.
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 Have any Query: <br />
