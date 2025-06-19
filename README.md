@@ -5,7 +5,7 @@
 
 Follow these steps to set up the project locally on your machine.
 
-**Prerequisites**
+**Prerequisites** 
 
 Make sure you have the following installed on your machine:
 
